@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+  <link href='css/main.css' rel='stylesheet' />
+  <link href='http://api.tiles.mapbox.com/mapbox.js/v0.6.7/mapbox.css' rel='stylesheet'/>
+</head>
+<body>
+<header><h1>Wyatt Family</h1></header>
+<div class="regionMap">
+
+</div>
+<div class="regionFamily">
+
+</div>
+<script src="lib/require/require.js"></script>
+<script>
+  require(['app/require-config'], function () {
+    //require.config({baseUrl: './dist/'})
+    require(['main']);
+  });
+</script>
+</body>
+</html>

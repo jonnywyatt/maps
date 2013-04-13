@@ -1,0 +1,183 @@
+{
+	"familyData": {
+		"name": "Great Nana Banda",
+		"children": [
+			{
+				"name": "Nana Banda",
+				"location": {
+					"geometry": {
+						"type": "Point",
+						"coordinates": [-15.373080, 28.297909]
+					},
+					"properties": {
+						"title": "Roma, Lusaka"
+					}
+				},
+				"children": [
+					{
+						"name": "Cecilia",
+						"location": {
+							"geometry": {
+								"type": "Point",
+								"coordinates": [-15.373080, 28.297909]
+							},
+							"properties": {
+								"title": "Banda home"
+							}
+						},
+						"children": [
+							{
+								"name": "Kabwe",
+								"location": {
+									"geometry": {
+										"type": "Point",
+										"coordinates": [-15.373080, 28.297909]
+									},
+									"properties": {
+										"title": "Banda home"
+									}
+								}
+							},
+							{
+								"name": "Chawala",
+								"location": {
+									"geometry": {
+										"type": "Point",
+										"coordinates": [-15.373080, 28.297909]
+									},
+									"properties": {
+										"title": "Banda home"
+									}
+								}
+							},
+							{
+								"name": "Ngosa",
+								"location": {
+									"geometry": {
+										"type": "Point",
+										"coordinates": [-15.373080, 28.297909]
+									},
+									"properties": {
+										"title": "Banda home"
+									}
+								}
+							}
+
+						]
+					},
+					{
+						"name": "Tricia",
+						"location": {
+							"geometry": {
+								"type": "Point",
+								"coordinates": [51.522358, 0.205931]
+							},
+							"properties": {
+								"title": "Banda home"
+							}
+						},
+						"children": [
+							{
+								"name": "Lubona",
+								"location": {
+									"geometry": {
+										"type": "Point",
+										"coordinates": [51.522358, 0.205931]
+									},
+									"properties": {
+										"title": "Banda home"
+									}
+								}
+							},
+							{
+								"name": "Kayla",
+								"location": {
+									"geometry": {
+										"type": "Point",
+										"coordinates": [51.522358, 0.205931]
+									},
+									"properties": {
+										"title": "Banda home"
+									}
+								}
+							},
+							{
+								"name": "Alyssa",
+								"location": {
+									"geometry": {
+										"type": "Point",
+										"coordinates": [51.522358, 0.205931]
+									},
+									"properties": {
+										"title": "Banda home"
+									}
+								}
+							}
+
+						]
+					},
+					{
+						"name": "Carol",
+						"location": {
+							"geometry": {
+								"type": "Point",
+								"coordinates": [51.496823, 0.250843]
+							},
+							"properties": {
+								"title": "Banda home"
+							}
+						},
+						"children": [
+							{
+								"name": "Ngoza",
+								"location": {
+									"geometry": {
+										"type": "Point",
+										"coordinates": [51.496823, 0.250843]
+									},
+									"properties": {
+										"title": "Banda home"
+									}
+								}
+							},
+							{
+								"name": "AJ",
+								"location": {
+									"geometry": {
+										"type": "Point",
+										"coordinates": [51.496823, 0.250843]
+									},
+									"properties": {
+										"title": "Banda home"
+									}
+								}
+							},
+							{
+								"name": "Emmanuel",
+								"location": {
+									"geometry": {
+										"type": "Point",
+										"coordinates": [51.496823, 0.250843]
+									},
+									"properties": {
+										"title": "Banda home"
+									}
+								}
+							}
+
+						]
+					}
+				]
+			}
+		],
+		"location": {
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-13.631828, 32.644758]
+			},
+			"properties": {
+				"title": "Chipata"
+			}
+		}
+	}
+}
